@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jellybeans511",
+  "license": "ISC",
+  "dependencies": {
+    "skyway": "^2.1.0",
+    "skyway-js": "^4.4.3",
+    "ts": "^0.2.2"
+  }
+}
